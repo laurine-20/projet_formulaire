@@ -1,8 +1,8 @@
 Etape pour démarrer le projet : 
 
 1. Télécharger le projet sur Github
-2. L'ouvrir dans un htdocs
-3. Récupérer ma BdD du fichier "formulaire.sql" puis le mettre sur phpmyadmin 
+2. L'ouvrir dans un htdocs (c'est un projet php)
+3. Récupérer la BdD du fichier "formulaire.sql" puis le mettre sur phpmyadmin 
 4. Lancer le projet sur le localhost
 5. A vous de jouer : Inscrivez-vous puis connectez-vous 
 6. Identifiant : lfiguera ; Mot de passe : lk8gh90
